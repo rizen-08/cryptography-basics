@@ -4,7 +4,7 @@ This repository contains practical Python implementations of three foundational 
 
 This project was built to explore the core pillars of modern digital security: data integrity, symmetric encryption, and asymmetric encryption.
 
-## 🚀 Algorithms Implemented
+# Algorithms Implemented
 
 1. **Hashing (SHA-256)**
    * **File:** `hash_test.py`
@@ -18,7 +18,7 @@ This project was built to explore the core pillars of modern digital security: d
    * **File:** `rsa_test.py`
    * **Concept:** Public/Private key pair infrastructure using PKCS1_OAEP padding. Demonstrates how a public key encrypts data that only the private key can decrypt. Best for secure key exchange and digital signatures.
 
-## 🛠️ Prerequisites
+# Prerequisites
 
 This project uses the modern `pycryptodome` library (a secure drop-in replacement for the deprecated `PyCrypto`).
 
